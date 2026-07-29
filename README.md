@@ -1,5 +1,7 @@
-<h1> 💫 Hi 👋, I'm TOSHIK </h1><br>
+<h1> 💫 Hi 👋, I'm TOSHIK </h1> 
 <h2>  A passionate AI-ML Engineer || Python Developer </h2> 
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/toshik-choudhary) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:toshikchoudhary@gmail.com) 
 
