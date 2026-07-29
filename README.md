@@ -1,6 +1,7 @@
-<h1> 💫 Hi 👋, I'm TOSHIK </h1> 
-<h2>  A passionate AI-ML Engineer || Python Developer </h2> 
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7B2FF7&height=220&section=header&text=🤖%20AI%20Engineer&fontSize=45&fontColor=ffffff&animation=twinkling"/>
+</p>
+<h1> ✨ Hi 👋, I'm TOSHIK </h1> 
 <!-- Profile animation View -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Solutions;Generative+AI+%7C+RAG+%7C+Agentic+AI;Python+%7C+Machine+Learning+%7C+Deep+Learning;Turning+Ideas+Into+Real-World+Technology" />
