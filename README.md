@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7B2FF7&height=220&section=header&text=🤖%20AI%20Engineer&fontSize=45&fontColor=ffffff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7B2FF7&height=220&section=header&text=%20AI%20Engineer&fontSize=45&fontColor=ffffff&animation=twinkling"/>
 </p>
 <h1> ✨ Hi 👋, I'm TOSHIK </h1> 
 <!-- Profile animation View -->
