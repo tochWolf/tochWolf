@@ -18,7 +18,7 @@
 
 
 
-#   🌟 GitHub Stats:
+#   🌟 GitHub Status:
 ![](https://github-readme-stats.shion.dev/api?username=tochWolf&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=tochWolf&theme=shadow_red&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tochWolf&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
