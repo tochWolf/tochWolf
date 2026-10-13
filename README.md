@@ -28,21 +28,25 @@
 <img align="right" width="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tochWolf&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Top languages" />
 
 ```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Toshik Choudhary"
-        self.role = "AI/ML Engineer"
-        self.focus = [
-            "Generative AI",
-            "RAG Systems",
-            "AI Agents",
-            "Machine Learning",
-            "Computer Vision"
-        ]
-        self.language = "Python"
+from dataclasses import dataclass
 
-    def goal(self):
-        return "Build AI that solves real problems."
+@dataclass
+class AIEngineer:
+    name: str = "Toshik Choudhary"
+    role: str = "AI & ML Engineer"
+    specialization: tuple = (
+        "Generative AI",
+        "RAG & LLMs",
+        "Agentic AI",
+        "Machine Learning",
+        "Computer Vision",
+    )
+    language: str = "Python"
+
+    def build(self):
+        return "Turning ideas into intelligent solutions."
+
+me = AIEngineer()
 ```
 
 - 🎓 B.Tech in Artificial Intelligence & Machine Learning
